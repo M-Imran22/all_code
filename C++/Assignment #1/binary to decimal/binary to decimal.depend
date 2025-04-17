@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1644067500 source:d:\c++\binary to decimal\main.cpp
+	<iostream>
+	<math.h>
+
+1644067500 source:d:\c++\assignment #1\binary to decimal\main.cpp
+	<iostream>
+	<math.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1643636718 source:d:\c++\employees\main.cpp
+	<iostream>
+
+1643809030 source:d:\c++\assignment #1\employees\main.cpp
+	<iostream>
+	<string.h>
+

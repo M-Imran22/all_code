@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645280005 source:d:\c++\student report manegment system\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+

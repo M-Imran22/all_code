@@ -1,0 +1,11 @@
+State,Age,Salary,Purchased
+Califonia,42,60000,No
+Florida,29,55000,Yes
+Texas,27,72000,No
+Florida,26,48000,No
+Texas,39,,Yes
+Califonia,34,54000,Yes
+Florida,,57000,No
+Califonia,46,80000,Yes
+Texas,51,85000,No
+Califonia,38,75000,Yes
